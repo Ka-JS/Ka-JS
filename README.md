@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! I'm a BSc Computer Science student currently building applications in C++ and Python. I focus on applying the technical skills I've gained through core coursework and personal projects.
+# Hi 👋, I'm Kalle Salminen:
+BSc Computer Science student developing tools and applications. Currently completing The Odin Project and university studies.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Hey there! I'm a BSc Computer Science student currently building applications in
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ka-JS&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
