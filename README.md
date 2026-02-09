@@ -1,16 +1,74 @@
-# Hi 👋, I'm Kalle Salminen:
-BSc Computer Science student developing tools and applications. Currently completing The Odin Project and university studies.
+# Hi, I'm Kalle. 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kallesalminen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalle-salminen) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ka-JS&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ka-JS&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka-JS&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### BSc Computer Science Student at Tampere University
+I am a software developer focused on video processing tools and full-stack web applications. Currently working on university courses and completing The Odin Project.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ka-JS&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Technical Skills
+
+<table style="width:100%">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
+      <br><strong>Qt</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+      <br><strong>FFmpeg</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+      <br><strong>Unreal Engine</strong>
+    </td>
+  </tr>
+</table>
+
+### Currently Working On
+
+#### 1. Python AI Video Optimizer
+**Repository:** [Ka-JS/video-cli](https://github.com/Ka-JS/video-cli)
+* A CLI tool developed for video enhancement and batch processing.
+* Utilizes **FFmpeg** for encoding and the **RIFE model** for AI-based frame interpolation.
+* Designed to parse user settings for automated resolution scaling and quality control.
+
+#### 2. The Odin Project (Web Development)
+* Completing the Full Stack JavaScript curriculum.
+* Currently focusing on backend development, building REST APIs using **Node.js** and **Express**.
+* Creating various mini-projects to practice database integration and server logic.
+
+---
+### Contact
+
+* **LinkedIn:** [linkedin.com/in/kalle-salminen](https://www.linkedin.com/in/kalle-salminen/)
+* **Email:** KJS04@outlook.com
