@@ -57,7 +57,6 @@ I am a software developer focused on video processing tools and full-stack web a
 ### Currently Working On
 
 #### 1. Python AI Video Optimizer
-**Repository:** [Ka-JS/video-cli](https://github.com/Ka-JS/video-cli)
 * A CLI tool developed for video enhancement and batch processing.
 * Utilizes **FFmpeg** for encoding and the **RIFE model** for AI-based frame interpolation.
 * Designed to parse user settings for automated resolution scaling and quality control.
