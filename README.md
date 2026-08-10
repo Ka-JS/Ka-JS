@@ -1,7 +1,7 @@
 # Hi, I'm Kalle. 👋
 
 ### BSc Computer Science Student at Tampere University
-I am a software developer focused on video processing tools and full-stack web applications. Currently working on university courses and completing The Odin Project.
+I am a software developer focused on computer vision and digital signal processing. Currently building an AI-integrated smart display, with an upcoming thesis focus on video frame interpolation and super-resolution.
 
 ---
 
@@ -56,15 +56,17 @@ I am a software developer focused on video processing tools and full-stack web a
 
 ### Currently Working On
 
-#### 1. Python AI Video Optimizer
-* A CLI tool developed for video enhancement and batch processing.
-* Utilizes **FFmpeg** for encoding and the **RIFE model** for AI-based frame interpolation.
-* Designed to parse user settings for automated resolution scaling and quality control.
-
-#### 2. The Odin Project (Web Development)
-* Completing the Full Stack JavaScript curriculum.
-* Currently focusing on backend development, building REST APIs using **Node.js** and **Express**.
-* Creating various mini-projects to practice database integration and server logic.
+#### 1. E-Ink Dashboard
+* A low-power personal dashboard built around a Raspberry Pi and e-paper display.
+* Pulls live weather and Google Calendar data and renders it to the screen.
+* New events can be added through natural language messages, parsed with an LLM and written straight to Google Calendar via a Discord bot.
+* Full Python pipeline covering REST API integration, OAuth2, and Pillow-based image rendering.
+* [Repo](https://github.com/Ka-JS/eink-dashboard)
+  
+#### 2. Video Frame Interpolation and Super Resolution
+* A CLI tool for enhancing video by increasing framerate and resolution with minimal artifacts.
+* Uses existing motion vectors from compressed video (**H.264/MP4**) for fast, non AI based frame interpolation.
+* Benchmarked against **FFmpeg's** built in interpolation and AI based methods like **RIFE**.
 
 ---
 ### Contact
